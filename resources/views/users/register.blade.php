@@ -31,10 +31,7 @@
                                 type="email"
                                 class="border border-gray-200 rounded p-2 w-full"
                                 name="email" value="{{old('email')}}"/>
-                            {{-- <!-- Error Example -->
-                            <p class="text-red-500 text-xs mt-1">
-                                Please enter a valid email
-                            </p> --}}
+                            
                             @error('email')
                             <p class="text-red-500 text-xs mt-1">{{$message}}</p>
                             @enderror
