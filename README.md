@@ -21,22 +21,22 @@ The Kubwa Job Listing Application is a web-based platform designed to facilitate
 To run the Kubwa Job Listing Application locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-   git clone https://github.com/your-username/kubwa-job-listing.git
+   - git clone https://github.com/your-username/kubwa-job-listing.git
 2. Navigate to the project directory:
    cd kubwa-job-listing
 3. Install Composer dependencies:
    composer install
 4. Create a copy of the `.env.example` file and rename it to `.env`:
-   cp .env.example .env
+   - cp .env.example .env
 5. Generate a new application key:
    php artisan key:generate
 6. Configure the database settings in the `.env` file:
-   DB_CONNECTION=mysql
-   DB_HOST=127.0.0.1
-   DB_PORT=3306
-   DB_DATABASE=your_database_name
-   DB_USERNAME=your_database_username
-   DB_PASSWORD=your_database_password
+   - DB_CONNECTION=mysql
+   - DB_HOST=127.0.0.1
+   - DB_PORT=3306
+   - DB_DATABASE=your_database_name
+   - DB_USERNAME=your_database_username
+   - DB_PASSWORD=your_database_password
 7. Run database migrations:
    php artisan migrate 
 8. Start the Laravel development server:
@@ -72,7 +72,7 @@ Contributions to the Kubwa Job Listing Application are welcome! If you would lik
 
 ## Related Projects
 
-- [Kubwa Job Listing Backend](https://github.com/your-username/kubwa-job-listing-backend): Backend API for the Kubwa Job Listing Application.
+- [Jobberman](https://www.jobberman.com): Backend API for the Kubwa Job Listing Application.
 
 ---
 
@@ -87,6 +87,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ![Kubwa Job Listing Application](screenshot.png)
 
 ---
+
+Thank you all!
+Special thanks to all contributors and supporters that starred this repository.
 
 
 
