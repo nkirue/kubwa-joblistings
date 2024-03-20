@@ -88,10 +88,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-## Resources
 
-- [What your code repository says about you](https://github.com/noffle/art-of-readme)
-- [Awesome List of READMEs](https://github.com/matiassingers/awesome-readme)
 
 
 
