@@ -84,7 +84,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Screenshot
 
-![Kubwa Job Listing Application](screenshot.png)
+![Kubwa Job Listing Application](home.png)
 
 ---
 
