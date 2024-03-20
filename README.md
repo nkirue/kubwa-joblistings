@@ -9,7 +9,7 @@ Welcome to the Kubwa Job Listing Application! This project was born out of my pe
 
 **Deployed Site:** [Kubwa Job Listing Application](https://kubwa-joblistings-production.up.railway.app/)
 
-**Final Project Blog Article:** [Read the Blog Article](https://www.example.com/blog)
+**Final Project Blog Article:** [Read the Blog Article](https://www.linkedin.com/pulse/portfolio-project-blog-post-nkiru-ezefosie-dlu6f)
 
 **Author(s) LinkedIn:**
 - [Nkiru Ezefosie](https://www.linkedin.com/in/nkiru-ezefosie-561809117)
